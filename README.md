@@ -3,7 +3,7 @@
 
 This repository provides a complete implementation of the UX Researcher Agent (cupcake design) using IBM Granite Vision and Language Models. The agent autonomously evaluates user interface (UI) designs, delivering structured insights on usability, accessibility, clarity, and visual hierarchy.
 
-![ Implementation design ]("User-2.png")
+![Implementation design]("User-2.png")
 
 ## Project Overview
 
